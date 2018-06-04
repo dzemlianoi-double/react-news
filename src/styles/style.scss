@@ -1,0 +1,24 @@
+@import './article';
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  height: 50px;
+  background-color: darkorange;
+}
+
+footer {
+  height: 150px;
+  background-color: darkorange;
+}
+
+main {
+  min-height: 800px;
+}
+
+#root {
+  width: 100%;
+}
